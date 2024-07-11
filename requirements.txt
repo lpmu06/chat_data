@@ -1,0 +1,7 @@
+pip install yt_dlp
+pip install pydub
+pip install langchain
+pip install openai
+pip install langchain-community
+pip install pypdf
+pip install BeautifulSoup4
